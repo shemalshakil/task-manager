@@ -116,6 +116,6 @@ go run main.go
 
 ### 🚀 Built with ❤️ to Make Task Management Smarter & Easier!
 
-Give this repo a ⭐ if you found it useful! 😊✨
+Give this repo a ⭐ if you found it useful! 😊✨.
 
 
